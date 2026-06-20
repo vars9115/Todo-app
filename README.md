@@ -1,0 +1,2 @@
+# Todo-app
+To-Do List Application is a simple web-based project used to manage daily tasks efficiently. It allows users to add, view, and delete tasks in real time. The application uses JavaScript to handle user interactions and DOM manipulation. It also stores data in the browser using localStorage so that tasks remain saved even after refreshing the page. This project helps in understanding CRUD operations, event handling, and basic state management in web development.
